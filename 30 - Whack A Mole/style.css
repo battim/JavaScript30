@@ -14,11 +14,23 @@ body {
   font-family: 'Amatic SC', cursive;
 }
 
-h1 {
+header {
   text-align: center;
+}
+
+h1 {
   font-size: 10rem;
   line-height: 1;
   margin-bottom: 0;
+}
+
+button {
+  font-family: 'Amatic SC', cursive;
+  background: transparent;
+  border: none;
+  font-size: 4rem;
+  text-decoration: underline;
+  cursor: pointer;
 }
 
 .score {
